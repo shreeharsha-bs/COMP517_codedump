@@ -1,0 +1,4 @@
+a1 = BasicAccount('harsha',10)
+a2 = PremiumAccount('Harsha',10,1000)
+a3  = PremiumAccount('nananana',23)
+a4 = BasicAccount('lambda',100)
